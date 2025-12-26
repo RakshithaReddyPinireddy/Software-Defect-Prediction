@@ -88,3 +88,13 @@ software-defect-prediction/
 3.Install required libraries: pip install -r requirements.txt
 4.Run the main file: "python main.py"
 
+##  Future Enhancements
+
+Use deep learning models for better accuracy
+
+Apply feature selection optimization techniques
+
+Deploy the model using a web interface
+
+Test on real-world industry datasets
+
