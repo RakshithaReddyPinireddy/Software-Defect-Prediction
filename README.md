@@ -83,8 +83,8 @@ software-defect-prediction/
 └── .gitignore
 
 ## How to Run
-1.Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+1.Clone the repository: git clone https://github.com/RakshithaReddyPinireddy/Software-Defect-Prediction.git
 2.Navigate to the project directory: cd software-defect-prediction
 3.Install required libraries: pip install -r requirements.txt
-4.Run the main file: python main.py
+4.Run the main file: "python main.py"
 
