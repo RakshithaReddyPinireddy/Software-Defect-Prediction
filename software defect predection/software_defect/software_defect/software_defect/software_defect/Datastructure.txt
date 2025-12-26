@@ -1,0 +1,39 @@
+FraudAuditor A Visual Analytics Approach for Collusive Fraud in Health Insurance
+
+Visual analytics, collusive fraud, fraud detection, health insurance.
+
+
+IEEE Transaction on Machine Learning,Issue Date:June.2023,vol.29
+
+
+
+FraudAuditor
+
+fraudauditor
+
+
+fraud_detection
+
+
+
+
+
+
+
+Fid	
+ClaimID	
+ClaimDt	
+Provider	
+Sun_Insured	
+InscClaimAmtReimbursed	
+AttendingPhysician	
+ClmDiagnosisCode_1	
+Claimed_Amount	
+Glucose	
+BloodPressure	
+SkinThickness	
+Insulin	
+BMI	
+DiabetesPedigreeFunction	
+Age
+Prediction
